@@ -1,0 +1,32 @@
+body {
+    background-color: whitesmoke;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  ol, ul {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+  }
+  .image-container {
+    margin: 20px auto;
+    text-align: center;
+  }
+  .image-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  .framed-section {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px auto;
+    display: inline-block;
+    text-align: center;
+    background-color: #ffffff; /* optional for contrast */
+    border-radius: 8px; /* optional for rounded corners */
+  }
+  
